@@ -171,12 +171,18 @@ footer {
 
 @media (max-width: 978px){
     .home{
-        height: 100vh;
+        height: 100%;
     }
-    
+
     .navbar {
         margin: 0;
-    }    
+        text-align: center;
+    }
+
+    .intro{
+        font-size: 1.38rem;
+        padding-bottom: 100px;
+    }   
     
     .skill-logo {
         display: inline-block;
