@@ -169,7 +169,7 @@ footer {
 
 /* Media query */
 
-@media (max-width: 978px){
+@media (max-width: 1080px){
     .home{
         height: 100%;
     }
